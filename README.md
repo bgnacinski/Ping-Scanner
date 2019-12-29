@@ -1,5 +1,9 @@
 # Ping-Scanner
-An ping-scanner that use threading. It's really fast. Tested on Linux
+An ping-scanner that use threading. It's really fast. For Linux
+
+To use it on windows:
+From os.system in ping(), remove '-c 1' and rest (without %s)
+
 
 ## How to use it?
 You have to type first 3 octets of IP (e.g. 192.168.1) as argument
