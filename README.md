@@ -1,5 +1,5 @@
 # Ping-Scanner
-An ping-scanner that use threading. It's really fast. For Linux
+An ping-scanner that use threading. It's really fast. For Linux. Tested on Linux
 
 To use it on windows:
 From os.system in ping(), remove '-c 1' and rest (without %s)
